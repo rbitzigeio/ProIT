@@ -1,0 +1,14 @@
+C:\Users\cyqjefe0019\repos\proit\bin\Debug\net8.0\proit.exe
+C:\Users\cyqjefe0019\repos\proit\bin\Debug\net8.0\proit.deps.json
+C:\Users\cyqjefe0019\repos\proit\bin\Debug\net8.0\proit.runtimeconfig.json
+C:\Users\cyqjefe0019\repos\proit\bin\Debug\net8.0\proit.dll
+C:\Users\cyqjefe0019\repos\proit\bin\Debug\net8.0\proit.pdb
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.AssemblyInfoInputs.cache
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.AssemblyInfo.cs
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.csproj.CoreCompileInputs.cache
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.dll
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\refint\proit.dll
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.pdb
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\proit.genruntimeconfig.cache
+C:\Users\cyqjefe0019\repos\proit\obj\Debug\net8.0\ref\proit.dll
