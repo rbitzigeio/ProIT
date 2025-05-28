@@ -1,0 +1,15 @@
+C:\Users\RBO-VS-Admin\source\repos\ProIT\bin\Debug\net7.0\proit.exe
+C:\Users\RBO-VS-Admin\source\repos\ProIT\bin\Debug\net7.0\proit.deps.json
+C:\Users\RBO-VS-Admin\source\repos\ProIT\bin\Debug\net7.0\proit.runtimeconfig.json
+C:\Users\RBO-VS-Admin\source\repos\ProIT\bin\Debug\net7.0\proit.dll
+C:\Users\RBO-VS-Admin\source\repos\ProIT\bin\Debug\net7.0\proit.pdb
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.csproj.AssemblyReference.cache
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.AssemblyInfoInputs.cache
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.AssemblyInfo.cs
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.csproj.CoreCompileInputs.cache
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.dll
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\refint\proit.dll
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.pdb
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\proit.genruntimeconfig.cache
+C:\Users\RBO-VS-Admin\source\repos\ProIT\obj\Debug\net7.0\ref\proit.dll

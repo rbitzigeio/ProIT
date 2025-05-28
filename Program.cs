@@ -12,6 +12,7 @@ namespace ProIT
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello ProIT!");
+            String arg = new String("C:\\Users\\RBO-VS-Admin\\source\\repos\\ProIT\\data\\export_proit_20250527.csv");
             if (args != null && args.Length > 0) {
                 try
                 {
@@ -22,6 +23,7 @@ namespace ProIT
                 }
             } else {
                 usage();
+                createPlanung(arg);
             }
         }
 
@@ -34,6 +36,7 @@ namespace ProIT
             if (s.Length == 2) {
                 fout = s[0] + "_planung.csv";
             } else {
+                fout = "C:\\Users\\RBO-VS-Admin\\source\\repos\\ProIT\\data\\export_proit_20250527_planung";
                 throw new FileNotFoundException("Input file incorrect");
             }
             StreamWriter sw = new StreamWriter(fout);
@@ -48,19 +51,19 @@ namespace ProIT
                 }
                 if (doWrite) {
                     Console.WriteLine(i + " " + lineIn);
-                    string[] l = lineIn.Split(';');
-                    sw.WriteLine(l[0] + "; 2025-01; " + l[2]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-02; " + l[3]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-03; " + l[4]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-04; " + l[5]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-05; " + l[6]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-06; " + l[7]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-07; " + l[8]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-08; " + l[9]  + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-09; " + l[10] + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-10; " + l[11] + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-11; " + l[12] + "; " + l[16]);
-                    sw.WriteLine(l[0] + "; 2025-12; " + l[13] + "; " + l[16]);
+                    String[] l = lineIn.Split(';');
+                    sw.WriteLine(l[0] + "; 2025-01; " + l[2]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-02; " + l[3]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-03; " + l[4]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-04; " + l[5]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-05; " + l[6]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-06; " + l[7]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-07; " + l[8]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-08; " + l[9]  + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-09; " + l[10] + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-10; " + l[11] + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-11; " + l[12] + "; " + l[15]);
+                    sw.WriteLine(l[0] + "; 2025-12; " + l[13] + "; " + l[15]);
                 }
                 lineIn = sr.ReadLine();
             }
